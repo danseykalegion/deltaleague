@@ -55,7 +55,7 @@ The active server validation file is hash-verified but uses grouped `text`, `cod
 
 ## Limitations
 
-- No official submission has been made.
+- Submission `7cd5e3b6-3b45-4525-ab0d-b366dc1cd823` was created with research PR https://github.com/ilblackdragon/deltaleague/pull/25. It is pending server verification; no version, score, or rank is available yet.
 - No verified private result exists.
 - The candidate is not claimed to improve the parent.
 - CPU checks are not comparable to server evaluation.
