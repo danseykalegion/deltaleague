@@ -55,7 +55,7 @@ The active server validation file is hash-verified but uses grouped `text`, `cod
 
 ## Limitations
 
-- Submission `7cd5e3b6-3b45-4525-ab0d-b366dc1cd823` was created with research PR https://github.com/ilblackdragon/deltaleague/pull/25. It is pending server verification; no version, score, or rank is available yet.
-- No verified private result exists.
-- The candidate is not claimed to improve the parent.
+- Submission `7cd5e3b6-3b45-4525-ab0d-b366dc1cd823` was verified as version `b7d176ac-27a3-46d8-80c5-dcd1ff042fe7` with research PR https://github.com/ilblackdragon/deltaleague/pull/25.
+- Under `public-ladder500-8k-128-v1`, C2 scored 41.4109 public validation and 17.2 private test. The original model scored 41.3316 public validation and 17.4 private test. C2 ranked 17th at verification.
+- The public gain (+0.0794) did not carry to private test (-0.2). This candidate is not an improvement and must not be resubmitted unchanged.
 - CPU checks are not comparable to server evaluation.
